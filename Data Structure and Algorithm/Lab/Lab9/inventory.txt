@@ -1,0 +1,5 @@
+Correction Tape, 111, 4.50
+Plastic Ruler, 112, 1.00
+Soft Eraser, 113, 1.20
+Envelopes, 114, 2.00
+Stapler, 115, 5.00 
