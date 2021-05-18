@@ -1,0 +1,52 @@
+THE LIST OF POSTGRADUATE STUDENTS
+NO Name                                       Supervisor                                Project
+ 1  Bakar Bin Malik                           Prof. Dr.Kamil Ahmad                     The Effects of Social Media
+ 2  Ruby Gabriella                            Prof. Dr.Saidi Abdullah                  Adaptive Human Capital Management
+ 3  Lee Sze Yuan                              Prof. Yeong Che Fai                      Data to Comabt Covid-19
+ 4  Loh yew Chong                             Prof. Tan Chen Sheng                     AI in Data
+ 5  Lee Sze Sing                              Mr. Yeong Che Fai                        Effect of Quirkology
+ 6  Ng Mei Hui                                Dr. Chloe                                Awareness of cyberbully
+ 7  Ahmad Kanusi Bin Kamarudin                Dr. Martin Edver                         Corona virus
+ 8  Lim Mu Tang                               Dr. Iris                                 Advantages of learning Taiwanese
+ 9  Muhammad Amirul bin Muhammad Nizam        Dr. Nadiah binti Hakim                   The study of insects
+10  Lim Shui Hu                               Dr. Kamaruddin                           Consumption of Seafood
+11  Tan Ji Leh                                Prof. Dr.Kamil Ahmad                     The Effects of Social Media
+12  Ruby Hong                                 Prof. Dr.Saidi Abdullah                  Adaptive Human Capital Management
+13  Tan Che Fai                               Prof. Yeong Che Fai                      Data to Comabt Covid-19
+14  Sasvinth A/L Shasither                    Prof. Tan Chen Sheng                     AI in Data
+15  Lee Sze Khar                              Mr. Yeong Che Fai                        Effect of Quirkology
+16  Ng Mei Ling                               Dr. Chloe                                Awareness of cyberbully
+17  Ahmad Kanusi Bin Ali                      Dr. Martin Edver                         Corona virus
+18  Lim Mung Tang                             Dr. Iris                                 Advantages of learning Taiwanese
+19  Muhammad Fansuri bin Muhammad Nizam       Dr. Nadiah binti Hakim                   The study of insects
+20  Lim Shui Shui                             Dr. Kamaruddin                           Consumption of Seafood
+21  Alexander The Great                       Prof. Dr.Kamil Ahmad                     The Effects of Social Media
+22  Emerald Gabriella                         Prof. Dr.Saidi Abdullah                  Adaptive Human Capital Management
+23  Hinata Lee                                Prof. Yeong Che Fai                      Data to Comabt Covid-19
+24  Lee Liong Lin                             Prof. Tan Chen Sheng                     AI in Data
+25  Lee Sze Yu                                Mr. Yeong Che Fai                        Effect of Quirkology
+26  Abdullah Bin Yusof                        Dr. Chloe                                Awareness of cyberbully
+27  Ahmad Kanusi Bin Najib                    Dr. Martin Edver                         Corona virus
+28  Lau Mon Tang                              Dr. Iris                                 Advantages of learning Taiwanese
+29  Muhammad Kadazan bin Muhammad Nizam       Dr. Nadiah binti Hakim                   The study of insects
+30  Lim Shui Hang                             Dr. Kamaruddin                           Consumption of Seafood
+31  Tan Ji Peng                               Prof. Dr.Kamil Ahmad                     The Effects of Social Media
+32  Ruby Hong                                 Prof. Dr.Saidi Abdullah                  Adaptive Human Capital Management
+33  Tan Cheong Fang                           Prof. Yeong Che Fai                      Data to Comabt Covid-19
+34  Siti A/P Shasither                        Prof. Tan Chen Sheng                     AI in Data
+35  Lee Sze Yong                              Mr. Yeong Che Fai                        Effect of Quirkology
+36  Tan Mei Ling                              Dr. Chloe                                Awareness of cyberbully
+37  Ahmad Daniel Bin Ali                      Dr. Martin Edver                         Corona virus
+38  Lim Mun Tong                              Dr. Iris                                 Advantages of learning Taiwanese
+39  Muhammad Fan bin Muhammad ALi             Dr. Nadiah binti Hakim                   The study of insects
+40  Lim Siang Shui                            Dr. Kamaruddin                           Consumption of Seafood
+41  Kelvin Chong                              Dr. Chloe                                The effect of social media
+42  Nabilah binti Ainulludin                  Dr. Mohamad Luqman bin Mohamad Haqeem    The importance of healthy eating habits 
+43  Tan Hong Lei                              Mr. Samsul                               Environment Issue in UTM
+44  Lim See Qi                                Dr.Anazati                               The effect of environmental issues
+45  Chan Siew Bao                             Dr. Zahid bin Zakaria                    The importance of social cognition
+46  Durgashini A/P Murugam                    Dr. Zulaikha binti Zamidan               The importance of practicing 3R's
+47  Mohammed Khairul bin Lee                  Dr. Amir                                 The ways to improve social media
+48  Nabilah binti Ainulludin                  Dr. Mohamad Luqman bin Mohamad Haqeem    The importance of healthy eating habits 
+49  Ng Jun Fan                                Dr. Chloe                                Awareness of cyberbully
+50  Zul Bin Hashim                            Prof. Dr. Kamil Ahmad                    Artificial intelligence for robots
