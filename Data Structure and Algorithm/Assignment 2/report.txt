@@ -1,0 +1,5 @@
+                         PRODUCT STOCK REPORT
+                         AiwanShop Enterprise
+Bil  Item Name           Price per item    Quantity     Total
+1.   Lee Sze                   5.00           23        RM115.00
+2.   Wei Hong                  234.00         12        RM2808.00
