@@ -20,7 +20,7 @@ We learnt the OOP implementation of ***C++*** in **Programming Technique 2** cla
   - Etc
 ```
 
-### *2nd Year 1st Semester*
+### *In 2nd Year 1st Semester*
 We learnt how to use implement Data Structure & Algorithm with ***C++*** in **Data Structure & Algorithm** class.
 ```
   - Sorting
