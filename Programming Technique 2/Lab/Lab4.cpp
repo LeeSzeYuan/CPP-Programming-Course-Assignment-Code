@@ -1,5 +1,3 @@
-// Name : Lee Sze Yuan                                             //
-// Matrics No : A19EC0068  
 #include <iostream>
 
 using namespace std;
