@@ -1,5 +1,4 @@
-//Lee Sze Yuan 991029025069 Section 02 14/11/2019
-//loh Yew Chong 000722020135 Section 02 14/11/2019
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
