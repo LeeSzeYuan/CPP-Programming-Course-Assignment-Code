@@ -1,6 +1,3 @@
-//LEE SZE YUAN A19EC0068 991029-02-5069 SEC 02 30/11/2019
-//LOH YEW CHONG A19EC0076 000722-02-0135 SEC 02 30/11/2019
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>
